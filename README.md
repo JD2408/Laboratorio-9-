@@ -22,7 +22,11 @@ como rectangular.
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
  *Materiales*
  1 Calculadora Ciéntifica.
+ *Procedimiento*
+ ![image](https://user-images.githubusercontent.com/93794279/155049906-dfe74633-b725-4b94-a1e2-6f0d10137574.png)
+
  
+## 4. RESPUESTA A INTERROGANTES
 *EJERCICIOS*
 
 1. Transforme a su forma polar:
